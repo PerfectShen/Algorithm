@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:leetcode_2/leetcode_2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_1/leetcode_1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_46/leetcode_46.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:array/array.xcodeproj">
    </FileRef>
 </Workspace>
