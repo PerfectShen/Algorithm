@@ -2,6 +2,36 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:leetcode_720/leetcode_720.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_316/leetcode_316.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_121/leetcode_121.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_1275/leetcode_1275.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_906/leetcode_906.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_617/leetcode_617.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_912/leetcode_912.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_1074/leetcode_1074.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_48/leetcode_48.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_290/leetcode_290.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:array/array.xcodeproj">
    </FileRef>
 </Workspace>
