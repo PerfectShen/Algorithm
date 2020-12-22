@@ -2,51 +2,54 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:leetcode_1275/lc_1275_&#x627e;&#x51fa;&#x4e95;&#x5b57;&#x68cb;&#x7684;&#x83b7;&#x80dc;&#x8005;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_1074/lc_1074_&#x5143;&#x7d20;&#x548c;&#x4e3a;&#x76ee;&#x6807;&#x503c;&#x7684;&#x5b50;&#x77e9;&#x9635;&#x6570;&#x91cf;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_912/lc_912_&#x6392;&#x5e8f;&#x6570;&#x7ec4;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_906/lc_906_&#x8d85;&#x7ea7;&#x56de;&#x6587;&#x6570;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_746/leetcode_746.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_720/lc_720_&#x8bcd;&#x5178;&#x4e2d;&#x6700;&#x957f;&#x7684;&#x5355;&#x8bcd;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_677/lc_677_&#x952e;&#x503c;&#x6620;&#x5c04;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_617/lc_617_&#x5408;&#x5e76;&#x4e8c;&#x53c9;&#x6811;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_316/lc_316_&#x53bb;&#x9664;&#x91cd;&#x590d;&#x5b57;&#x6bcd;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_290/lc_290_&#x5355;&#x8bcd;&#x89c4;&#x5f8b;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode_232/lc_232_&#x7528;&#x6808;&#x5b9e;&#x73b0;&#x961f;&#x5217;.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:122.&#x6808;&#x7684;&#x5e94;&#x7528;/122.&#x6808;&#x7684;&#x5e94;&#x7528;.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_20/lc_20_&#x6709;&#x6548;&#x7684;&#x62ec;&#x53f7;.xcodeproj">
+      location = "group:leetcode_20/lc_20_&#x6709;&#x6548;&#x7684;&#x62ec;&#x53f7;.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_48/lc_48_&#x65cb;&#x8f6c;&#x56fe;&#x50cf;.xcodeproj">
+      location = "group:leetcode_48/lc_48_&#x65cb;&#x8f6c;&#x56fe;&#x50cf;.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:leetcode_54/leetcode_54.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_121/lc_121_&#x4e70;&#x5356;&#x80a1;&#x7968;&#x7684;&#x6700;&#x4f73;&#x65f6;&#x673a;.xcodeproj">
+      location = "group:leetcode_121/lc_121_&#x4e70;&#x5356;&#x80a1;&#x7968;&#x7684;&#x6700;&#x4f73;&#x65f6;&#x673a;.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_187/lc_187_&#x91cd;&#x590d;&#x7684;DNA&#x5e8f;&#x5217;.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_232/lc_232_&#x7528;&#x6808;&#x5b9e;&#x73b0;&#x961f;&#x5217;.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_290/lc_290_&#x5355;&#x8bcd;&#x89c4;&#x5f8b;.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_316/lc_316_&#x53bb;&#x9664;&#x91cd;&#x590d;&#x5b57;&#x6bcd;.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_617/lc_617_&#x5408;&#x5e76;&#x4e8c;&#x53c9;&#x6811;.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_677/lc_677_&#x952e;&#x503c;&#x6620;&#x5c04;.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_720/lc_720_&#x8bcd;&#x5178;&#x4e2d;&#x6700;&#x957f;&#x7684;&#x5355;&#x8bcd;.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_906/lc_906_&#x8d85;&#x7ea7;&#x56de;&#x6587;&#x6570;.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_912/lc_912_&#x6392;&#x5e8f;&#x6570;&#x7ec4;.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_1074/lc_1074_&#x5143;&#x7d20;&#x548c;&#x4e3a;&#x76ee;&#x6807;&#x503c;&#x7684;&#x5b50;&#x77e9;&#x9635;&#x6570;&#x91cf;.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/wangshen/OSChina/algorithm/algorithmswift/leetcode_1275/lc_1275_&#x627e;&#x51fa;&#x4e95;&#x5b57;&#x68cb;&#x7684;&#x83b7;&#x80dc;&#x8005;.xcodeproj">
+      location = "group:leetcode_187/lc_187_&#x91cd;&#x590d;&#x7684;DNA&#x5e8f;&#x5217;.xcodeproj">
    </FileRef>
 </Workspace>
