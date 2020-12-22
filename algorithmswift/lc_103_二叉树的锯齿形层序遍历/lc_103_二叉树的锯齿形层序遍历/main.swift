@@ -47,4 +47,10 @@ r.right = n2
 
 n2.left = n3
 n2.right = n4
+
+//var p = 1.0;
+//for i in 306...356 {
+//    p *= (Double(Float(i)) * 1.0)/365.0
+//}
+//print(1 - p)
 print(solution.zigzagLevelOrder(r))
