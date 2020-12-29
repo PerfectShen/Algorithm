@@ -2,6 +2,42 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:lc_205_&#x540c;&#x6784;&#x5b57;&#x7b26;&#x4e32;/lc_205_&#x540c;&#x6784;&#x5b57;&#x7b26;&#x4e32;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lc_50_Pow(x, n)/lc_50_Pow(x, n).xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lc_15_&#x4e09;&#x6570;&#x4e4b;&#x548c;/lc_15_&#x4e09;&#x6570;&#x4e4b;&#x548c;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lc_1_&#x4e24;&#x6570;&#x4e4b;&#x548c;/lc_1_&#x4e24;&#x6570;&#x4e4b;&#x548c;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lc_283_&#x79fb;&#x52a8;&#x96f6;/lc_283_&#x79fb;&#x52a8;&#x96f6;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lc_496_&#x4e0b;&#x4e00;&#x4e2a;&#x66f4;&#x5927;&#x5143;&#x7d20;I/lc_496_&#x4e0b;&#x4e00;&#x4e2a;&#x66f4;&#x5927;&#x5143;&#x7d20;I.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lc_739_&#x6bcf;&#x65e5;&#x6e29;&#x5ea6;/lc_739_&#x6bcf;&#x65e5;&#x6e29;&#x5ea6;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lc_42_&#x63a5;&#x96e8;&#x6c34;/lc_42_&#x63a5;&#x96e8;&#x6c34;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lc_84_ &#x67f1;&#x72b6;&#x56fe;&#x4e2d;&#x6700;&#x5927;&#x7684;&#x77e9;&#x5f62;/lc_84_ &#x67f1;&#x72b6;&#x56fe;&#x4e2d;&#x6700;&#x5927;&#x7684;&#x77e9;&#x5f62;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lc_85_&#x6700;&#x5927;&#x77e9;&#x5f62;/lc_85_&#x6700;&#x5927;&#x77e9;&#x5f62;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lc_74_&#x641c;&#x7d22;&#x4e8c;&#x7ef4;&#x77e9;&#x9635;/lc_74_&#x641c;&#x7d22;&#x4e8c;&#x7ef4;&#x77e9;&#x9635;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lc_61_&#x65cb;&#x8f6c;&#x94fe;&#x8868;/lc_61_&#x65cb;&#x8f6c;&#x94fe;&#x8868;.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:lc_142_&#x73af;&#x5f62;&#x94fe;&#x8868;II/lc_142_&#x73af;&#x5f62;&#x94fe;&#x8868;II.xcodeproj">
    </FileRef>
    <FileRef
