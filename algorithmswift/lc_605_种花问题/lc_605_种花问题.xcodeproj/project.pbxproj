@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		67A8EC54259E460A0079928F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A8EC53259E460A0079928F /* main.swift */; };
 		67A8EC5C259E46410079928F /* Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A8EC5B259E46410079928F /* Solution.swift */; };
+		67A8EC5F259E47190079928F /* Solution1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A8EC5E259E47190079928F /* Solution1.swift */; };
+		67A8EC62259E48730079928F /* Solution2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A8EC61259E48730079928F /* Solution2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +29,8 @@
 		67A8EC50259E460A0079928F /* lc_605_种花问题 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "lc_605_种花问题"; sourceTree = BUILT_PRODUCTS_DIR; };
 		67A8EC53259E460A0079928F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		67A8EC5B259E46410079928F /* Solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution.swift; sourceTree = "<group>"; };
+		67A8EC5E259E47190079928F /* Solution1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution1.swift; sourceTree = "<group>"; };
+		67A8EC61259E48730079928F /* Solution2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solution2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 			children = (
 				67A8EC53259E460A0079928F /* main.swift */,
 				67A8EC5B259E46410079928F /* Solution.swift */,
+				67A8EC5E259E47190079928F /* Solution1.swift */,
+				67A8EC61259E48730079928F /* Solution2.swift */,
 			);
 			path = "lc_605_种花问题";
 			sourceTree = "<group>";
@@ -123,7 +129,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				67A8EC5C259E46410079928F /* Solution.swift in Sources */,
+				67A8EC62259E48730079928F /* Solution2.swift in Sources */,
 				67A8EC54259E460A0079928F /* main.swift in Sources */,
+				67A8EC5F259E47190079928F /* Solution1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
