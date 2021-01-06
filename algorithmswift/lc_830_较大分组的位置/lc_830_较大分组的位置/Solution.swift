@@ -13,7 +13,7 @@ class Solution {
         var resultArray = [[Int]]()
         var i = 0
         var j = i + 1
-        let array = s.map { $0}
+        let array = s.map{ $0}
         while i < array.count - 1 && j < array.count {
             if array[i] == array[j] {
                 j += 1
